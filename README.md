@@ -16,10 +16,8 @@ Forecasting volatility in asset returns using the GARCH (Generalized Autoregress
 - RMSE of GARCH(1, 1): 0.0058
 - Value at Risk (95% confidence): 0.0205
 
-## Files
-- `volatility_forecasting_garch.ipynb`: Jupyter notebook with code and analysis.
-- `data/`: Folder containing the dataset.
-- `images/`: Folder containing plots and visualizations.
+
+
 
 ## Dependencies
 - Python 3.x
