@@ -1,7 +1,7 @@
-# Volatility Forecasting Using GARCH Model[^1^][1]
+# Volatility Forecasting Using GARCH Model
 
 ## Objective
-Forecasting volatility in asset returns using the GARCH (Generalized Autoregressive Conditional Heteroskedasticity) model[^1^][1].
+Forecasting volatility in asset returns using the GARCH (Generalized Autoregressive Conditional Heteroskedasticity) model.
 
 ## Data
 - Historical stock prices of S&P 500 from 2010-01-01 to 2023-01-01.
